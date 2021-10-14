@@ -6,7 +6,20 @@ namespace SavingGrejs
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+            Karaktär knight = new Karaktär();
+
+
+
+
+
+
+
+
+
+
+            Console.ReadLine();
+
         }
     }
 }
