@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\lorens.vinge\\Documents\\Programmring 2\\SavingGrejs\\SavingGrejs\\SavingGrejs.csproj": {}
+    "C:\\Users\\lorens.vinge\\Documents\\Programmring 2\\SavingGrejs\\SavingGrejs\\SavingGrejs.csproj": {}
   },
   "projects": {
-    "c:\\Users\\lorens.vinge\\Documents\\Programmring 2\\SavingGrejs\\SavingGrejs\\SavingGrejs.csproj": {
+    "C:\\Users\\lorens.vinge\\Documents\\Programmring 2\\SavingGrejs\\SavingGrejs\\SavingGrejs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\lorens.vinge\\Documents\\Programmring 2\\SavingGrejs\\SavingGrejs\\SavingGrejs.csproj",
+        "projectUniqueName": "C:\\Users\\lorens.vinge\\Documents\\Programmring 2\\SavingGrejs\\SavingGrejs\\SavingGrejs.csproj",
         "projectName": "SavingGrejs",
-        "projectPath": "c:\\Users\\lorens.vinge\\Documents\\Programmring 2\\SavingGrejs\\SavingGrejs\\SavingGrejs.csproj",
+        "projectPath": "C:\\Users\\lorens.vinge\\Documents\\Programmring 2\\SavingGrejs\\SavingGrejs\\SavingGrejs.csproj",
         "packagesPath": "C:\\Users\\lorens.vinge\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\lorens.vinge\\Documents\\Programmring 2\\SavingGrejs\\SavingGrejs\\obj\\",
+        "outputPath": "C:\\Users\\lorens.vinge\\Documents\\Programmring 2\\SavingGrejs\\SavingGrejs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lorens.vinge\\AppData\\Roaming\\NuGet\\NuGet.Config"

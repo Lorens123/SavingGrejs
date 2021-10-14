@@ -1,0 +1,16 @@
+C:\Users\lorens.vinge\Documents\Programmring 2\SavingGrejs\SavingGrejs\bin\Debug\net5.0\SavingGrejs.exe
+C:\Users\lorens.vinge\Documents\Programmring 2\SavingGrejs\SavingGrejs\bin\Debug\net5.0\SavingGrejs.deps.json
+C:\Users\lorens.vinge\Documents\Programmring 2\SavingGrejs\SavingGrejs\bin\Debug\net5.0\SavingGrejs.runtimeconfig.json
+C:\Users\lorens.vinge\Documents\Programmring 2\SavingGrejs\SavingGrejs\bin\Debug\net5.0\SavingGrejs.runtimeconfig.dev.json
+C:\Users\lorens.vinge\Documents\Programmring 2\SavingGrejs\SavingGrejs\bin\Debug\net5.0\SavingGrejs.dll
+C:\Users\lorens.vinge\Documents\Programmring 2\SavingGrejs\SavingGrejs\bin\Debug\net5.0\ref\SavingGrejs.dll
+C:\Users\lorens.vinge\Documents\Programmring 2\SavingGrejs\SavingGrejs\bin\Debug\net5.0\SavingGrejs.pdb
+C:\Users\lorens.vinge\Documents\Programmring 2\SavingGrejs\SavingGrejs\obj\Debug\net5.0\SavingGrejs.csproj.AssemblyReference.cache
+C:\Users\lorens.vinge\Documents\Programmring 2\SavingGrejs\SavingGrejs\obj\Debug\net5.0\SavingGrejs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorens.vinge\Documents\Programmring 2\SavingGrejs\SavingGrejs\obj\Debug\net5.0\SavingGrejs.AssemblyInfoInputs.cache
+C:\Users\lorens.vinge\Documents\Programmring 2\SavingGrejs\SavingGrejs\obj\Debug\net5.0\SavingGrejs.AssemblyInfo.cs
+C:\Users\lorens.vinge\Documents\Programmring 2\SavingGrejs\SavingGrejs\obj\Debug\net5.0\SavingGrejs.csproj.CoreCompileInputs.cache
+C:\Users\lorens.vinge\Documents\Programmring 2\SavingGrejs\SavingGrejs\obj\Debug\net5.0\SavingGrejs.dll
+C:\Users\lorens.vinge\Documents\Programmring 2\SavingGrejs\SavingGrejs\obj\Debug\net5.0\ref\SavingGrejs.dll
+C:\Users\lorens.vinge\Documents\Programmring 2\SavingGrejs\SavingGrejs\obj\Debug\net5.0\SavingGrejs.pdb
+C:\Users\lorens.vinge\Documents\Programmring 2\SavingGrejs\SavingGrejs\obj\Debug\net5.0\SavingGrejs.genruntimeconfig.cache
